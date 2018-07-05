@@ -1,7 +1,7 @@
 # Shability.io
 “不要盲目地相信‘价值投资’，如果你随波逐流地认为价值投资是对的，那你注定是个平庸的人。” —— 李笑来
 
-大家好，这里是SBC，中文名傻逼币，主页：http://www.shability.io
+大家好，这里是SBC，中文名傻逼控，主页：http://www.shability.io
 
 SBC发行总量：1万3000亿，这很SBC。
 
