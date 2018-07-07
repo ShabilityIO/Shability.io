@@ -54,3 +54,11 @@ http://www.newbility.io
 现在技术方面的进展很顺利，感谢nano.org。
 
 SBC能够走多远，能不能让SBC的社区共识成为现实，让我们一起努力。
+
+# 2018-07-07
+
+未来的世界是Free Coder的世界，是Free Coding的世界，我们将自己的想法贡献在BlockChain + GitHub上面，Free Coder改变世界，通过Free Coding。
+
+世界反馈给Coder NBC，支持Coder继续为世界的改变做出贡献。
+
+Codering经济或许是NBC第一应该考虑的经济模式。
